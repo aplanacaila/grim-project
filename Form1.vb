@@ -17,6 +17,7 @@ Public Class Form1
     End Sub
 
 
+    'Comentari super guay
     'Esta Función verifica la proximidad de obstáculos, bloquea los botones de dirección para impedir el movimiento 
     Private Sub Comprueba_sensores()
 
